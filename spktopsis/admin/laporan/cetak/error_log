@@ -1,0 +1,2 @@
+[30-Jan-2022 22:49:56 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/percent1/public_html/admin/laporan/cetak/pencarian.php on line 11
+[30-Jan-2022 22:49:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/percent1/public_html/admin/laporan/cetak/pencarian.php on line 92

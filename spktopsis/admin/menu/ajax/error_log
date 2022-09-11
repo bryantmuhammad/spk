@@ -1,0 +1,16 @@
+[31-Jan-2022 02:37:11 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/percent1/public_html/admin/menu/ajax/simpanperhitungan.php on line 7
+[31-Jan-2022 02:37:11 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/percent1/public_html/admin/menu/ajax/simpanproduk.php on line 7
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Long Black in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 169
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Japanese Iced Coffee in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 169
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Moccacino in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 169
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Tubruk in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 169
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: V60 in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 169
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Vietnamese in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 169
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Long Black in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 188
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Japanese Iced Coffee in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 188
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Moccacino in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 188
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Tubruk in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 188
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: V60 in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 188
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined index: Vietnamese in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 188
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 466
+[08-Feb-2022 20:05:33 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/percent1/public_html/admin/menu/ajax/perhitungan.php on line 466
